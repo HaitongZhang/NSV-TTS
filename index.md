@@ -19,9 +19,9 @@ Paper link: [arXiv](Not Available so far ...)
 
 | **Anger** | **Disgust** | **Doubt** | **Fear** | **Sad** | **Surprise** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| <audio src="wavs/cough/anger/0.wav" controls preload></audio> | <audio src="wavs/cough/disgust/0.wav" controls preload></audio> | <audio src="wavs/cough/fear/0.wav" controls preload></audio> | <audio src="wavs/cough/sad/0.wav" controls preload></audio> | <audio src="wavs/cough/surprise/0.wav" controls preload></audio> |
+| <audio src="wavs/cough/anger/0.wav" controls preload></audio> | <audio src="wavs/cough/disgust/0.wav" controls preload></audio> | <audio src="wavs/cough/doubt/0.wav" controls preload></audio> | <audio src="wavs/cough/fear/0.wav" controls preload></audio> | <audio src="wavs/cough/sad/0.wav" controls preload></audio> | <audio src="wavs/cough/surprise/0.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- |
-| <audio src="wavs/cough/anger/1.wav" controls preload></audio> | <audio src="wavs/cough/disgust/1.wav" controls preload></audio> | <audio src="wavs/cough/fear/1.wav" controls preload></audio> | <audio src="wavs/cough/sad/1.wav" controls preload></audio> | <audio src="wavs/cough/surprise/1.wav" controls preload></audio> |
+| <audio src="wavs/cough/anger/1.wav" controls preload></audio> | <audio src="wavs/cough/disgust/1.wav" controls preload></audio> | <audio src="wavs/cough/doubt/1.wav" controls preload></audio> | <audio src="wavs/cough/fear/1.wav" controls preload></audio> | <audio src="wavs/cough/sad/1.wav" controls preload></audio> | <audio src="wavs/cough/surprise/1.wav" controls preload></audio> |
 | --- | --- | --- | --- | --- | --- |
 
 ### Cry
